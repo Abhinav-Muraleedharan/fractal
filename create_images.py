@@ -1,5 +1,5 @@
 # Python code for Julia Fractal --adopted from online source,main difference is in varying hyper parameters 
-and creating multiple fractal images
+#and creating multiple fractal images
 from PIL import Image 
 
 # driver function 
